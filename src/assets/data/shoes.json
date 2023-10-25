@@ -1,0 +1,25 @@
+{
+    "shoes": [
+        {
+            "id": "001",
+            "name": "Nike Air Max",
+            "slug": "nike-air-max",
+            "price": 150.00,
+            "description": "Introduced in 1987, the Nike Air Max line revolutionized athletic footwear with its visible Air-Sole unit. The shoe's design showcased a larger volume of Nike's patented Air cushioning for maximum comfort, with the innovative visual aspect allowing wearers to not just feel but also see the cushioning technology. "
+        },
+        {
+            "id": "002",
+            "name": "Nike Air Force 1",
+            "slug": "nike-air-force-1",
+            "price": 90.00,
+            "description": "Launched in 1982, the Nike Air Force 1 (often simply referred to as the AF1) was the first basketball shoe to utilize Nike Air technology, providing enhanced cushioning on the court. Designed by Bruce Kilgore, the shoe was named after the Air Force One, the plane that carries the President of the United States. Distinguished by its unique, chunky design and its pivot point on the outsole, the Air Force 1 quickly transcended its intended purpose on the basketball court to become a cultural and streetwear icon."
+        },
+        {
+            "id": "003",
+            "name": "Nike Dunk Retro",
+            "slug": "nike-dunk-retro",
+            "price": 100.00,
+            "description": "Introduced in 1985, the Nike Dunk started as a college basketball shoe, designed with team colors in mind to match various university basketball squads. Its close resemblance to the Nike Air Jordan 1 and Nike Terminator meant that it shared design elements that were popular in basketball shoes of that era, such as a lower cut compared to high-top hoops shoes and panels perfect for color-blocking."
+        }
+    ]
+}
